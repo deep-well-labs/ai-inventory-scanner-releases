@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "product": "AI Inventory Scanner",
+  "version": "0.2.0",
+  "build": 5,
+  "tag": "v0.2.0-beta.1",
+  "architecture": "arm64",
+  "minimumMacOS": "26.0",
+  "publicationReady": true,
+  "signed": true,
+  "notarized": true,
+  "downloadURL": "https://github.com/deep-well-labs/ai-inventory-scanner-releases/releases/download/v0.2.0-beta.1/AI-Inventory-Scanner-v0.2.0-beta.1-arm64.dmg",
+  "sha256": "d45e337a3ef13c7cbb31fbf25249d8b9559a1b5cbf5739824bd62a4a16e1874f",
+  "artifact": "AI-Inventory-Scanner-v0.2.0-beta.1-arm64.dmg",
+  "bytes": 787712,
+  "sourceCommit": "8688c8c2e86ddd4c5cea2cde71135725a9d4495b",
+  "definitionsVersion": "2026-11-17.3",
+  "releaseDate": "2026-11-18"
+}
